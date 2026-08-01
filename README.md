@@ -6,6 +6,6 @@
 - [Role Assignments](https://github.com/sroy733/role-assignments)
 - [Group Assignments](https://github.com/sroy733/group-assign)
 - [Identity Lifecycle](https://github.com/sroy733/identity-lifecycle)
-- [Audit Logs]()
+- [Audit Logs](https://github.com/sroy733/audit-logs)
 - [Sign-In Logs]()
 - [Authentication]()
