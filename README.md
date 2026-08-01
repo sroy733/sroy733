@@ -7,5 +7,5 @@
 - [Group Assignments](https://github.com/sroy733/group-assign)
 - [Identity Lifecycle](https://github.com/sroy733/identity-lifecycle)
 - [Audit Logs](https://github.com/sroy733/audit-logs)
-- [Sign-In Logs]()
+- [Sign-In Logs](https://github.com/sroy733/sign-in-logs)
 - [Authentication]()
